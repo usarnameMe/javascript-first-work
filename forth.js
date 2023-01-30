@@ -10,4 +10,5 @@ function sumOfNumbers() {
   return num;
 }
 
+sumOfNumbers();
 console.log(sumOfNumbers());
